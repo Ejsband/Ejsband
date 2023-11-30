@@ -4,7 +4,8 @@
 
 <h4 align="left">📫 How to reach me:</h4>
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">📫 Languages and Tools:</h4>
+
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="30"/></a>
