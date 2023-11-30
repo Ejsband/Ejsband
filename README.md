@@ -8,7 +8,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20"/></a> 
 </div>
 
-<h4 align="left">&#9000; Frameworks and libraries:</h4>
+<h4 align="left">&#128220; Frameworks and libraries:</h4>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="20"/></a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://hibernate.org/images/hibernate-logo.svg" height="20"/></a>
