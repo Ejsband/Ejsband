@@ -21,5 +21,7 @@
 
 <h4 align="left">📫 How to reach me:</h4>
 
+[![Telegram Badge](https://img.shields.io/badge/-konovalov_aleksey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/A1ex_Konovalov)
+
 
 
