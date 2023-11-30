@@ -21,7 +21,8 @@
 
 <h4 align="left">📫 How to reach me:</h4>
 
-[![Telegram Badge](https://img.shields.io/badge/?style=round&logo=Telegram&logoColor=white)](https://t.me/ejsband)
+[![Telegram Badge](https://img.shields.io/badge/-ilya_bogdanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ejsband)
+
 
 
 
