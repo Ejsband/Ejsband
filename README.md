@@ -11,7 +11,7 @@
 </div>
 
 <h4 align="left">&#9000; Frameworks and libraries:</h4>
-<div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="20"/></a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://hibernate.org/images/hibernate-logo.svg" height="20"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="20"/></a>
@@ -21,7 +21,7 @@
 
 <h4 align="left">📫 How to reach me:</h4>
 
-[![Telegram Badge](https://img.shields.io/badge/-Bogdanov_Ilya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ejsband)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram Badge](https://img.shields.io/badge/-Bogdanov_Ilya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ejsband)
 
 
 
