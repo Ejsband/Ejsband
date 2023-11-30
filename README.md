@@ -2,7 +2,7 @@
 
 <h4 align="left">&#9000; Languages:</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div> 
+<div>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="20"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"/></a>
